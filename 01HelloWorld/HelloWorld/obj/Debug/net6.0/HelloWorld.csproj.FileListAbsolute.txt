@@ -1,0 +1,15 @@
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\HelloWorld\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll

@@ -1,0 +1,15 @@
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\TipoDeDatos\TipoDeDatos\bin\Debug\net6.0\TipoDeDatos.exe
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\TipoDeDatos\TipoDeDatos\bin\Debug\net6.0\TipoDeDatos.deps.json
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\TipoDeDatos\TipoDeDatos\bin\Debug\net6.0\TipoDeDatos.runtimeconfig.json
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\TipoDeDatos\TipoDeDatos\bin\Debug\net6.0\TipoDeDatos.dll
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\TipoDeDatos\TipoDeDatos\bin\Debug\net6.0\TipoDeDatos.pdb
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.csproj.AssemblyReference.cache
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.AssemblyInfoInputs.cache
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.AssemblyInfo.cs
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.csproj.CoreCompileInputs.cache
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.dll
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\refint\TipoDeDatos.dll
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.pdb
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.genruntimeconfig.cache
+G:\Mi unidad\VALERIA\CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\ref\TipoDeDatos.dll
