@@ -126,12 +126,14 @@ Distinto que -> !=
 
 // CICLOS: WHILE Y FOR
 // WHILE
+// Pregunta la condición y luego deja entrar al ciclo
 // Mientras se cumpla la condición, vamos a dar la vuelta del ciclo de forma infinita
 // Se usa cuando NO sabemos cuántas vueltas al ciclo se va a dar
+
+// DO WHILE
+// Entra al ciclo directo y luego pregunta la condición
 
 // FOR
 // Para, mientras que ...
 // Se usa cuando SÍ sabemos cuántas vueltas al ciclo se va a dar
 //for(declaración; condicion; aumento)
-
-// 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Mi unidad\\VALERIA\\CURSOS\\10 Polo Tecnológico Mina Clavero\\Introducción a Net Core 6.0 2022\\02Apuntes\\TipoDeDatos\\TipoDeDatos.csproj",
+      "projectUniqueName": "G:\\Mi unidad\\VALERIA\\CURSOS\\10 Polo Tecnológico Mina Clavero\\Introducción a Net Core 6.0 2022\\IntroaNetCore6.0\\02Apuntes\\TipoDeDatos\\TipoDeDatos.csproj",
       "projectName": "TipoDeDatos",
-      "projectPath": "G:\\Mi unidad\\VALERIA\\CURSOS\\10 Polo Tecnológico Mina Clavero\\Introducción a Net Core 6.0 2022\\02Apuntes\\TipoDeDatos\\TipoDeDatos.csproj",
+      "projectPath": "G:\\Mi unidad\\VALERIA\\CURSOS\\10 Polo Tecnológico Mina Clavero\\Introducción a Net Core 6.0 2022\\IntroaNetCore6.0\\02Apuntes\\TipoDeDatos\\TipoDeDatos.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "G:\\Mi unidad\\VALERIA\\CURSOS\\10 Polo Tecnológico Mina Clavero\\Introducción a Net Core 6.0 2022\\02Apuntes\\TipoDeDatos\\obj\\",
+      "outputPath": "G:\\Mi unidad\\VALERIA\\CURSOS\\10 Polo Tecnológico Mina Clavero\\Introducción a Net Core 6.0 2022\\IntroaNetCore6.0\\02Apuntes\\TipoDeDatos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
