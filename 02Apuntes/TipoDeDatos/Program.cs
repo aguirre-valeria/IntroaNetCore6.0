@@ -96,44 +96,67 @@ Console.Clear();
 
 
 // CONDICIONALES
-//Es una instrucción o grupo de instrucciones que pueden ejecutarse o no en función del valor de una condición.
+    //Es una instrucción o grupo de instrucciones que pueden ejecutarse o no en función del valor de una condición.
 
-// IF (si)
-// La sentencia if («si») ejecuta las instrucciones sólo si se cumple una condición. Si la condición es falsa, no se hace nada.
+    // IF (si)
+        // La sentencia if («si») ejecuta las instrucciones sólo si se cumple una condición. Si la condición es falsa, no se hace nada.
 
-// IF ELSE (si..sino)
-// La sentencia if-else («si o sino») decide qué instrucciones ejecutar dependiendo si una condición es verdadera o falsa
+    // IF ELSE (si..sino)
+        // La sentencia if-else («si o sino») decide qué instrucciones ejecutar dependiendo si una condición es verdadera o falsa
 
-// SWITCH CASE (según)
-// Compara el valor de una variable o el resultado de evaluar una expresión, con un conjunto de valores valor1, valor2, valor3, .., cuando coinciden ejecuta el bloque de sentencias que están asociadas. Si no existe coincidencia, se ejecuta la sentencia default, si es que está presente en el código.
+    // SWITCH CASE (según)
+        // Compara el valor de una variable o el resultado de evaluar una expresión, con un conjunto de valores valor1, valor2, valor3, .., cuando coinciden ejecuta el bloque de sentencias que están asociadas. Si no existe coincidencia, se ejecuta la sentencia default, si es que está presente en el código.
 
 
 // OPERADORES LÓGICOS
-/* 
-AND -> && (Y)
-OR -> || (O)
-Igual que -> ==
-Distinto que -> !=
-*/
+    /* 
+        AND -> && (Y)
+        OR -> || (O)
+        Igual que -> ==
+        Distinto que -> !=
+    */
 
 //PARA CAMBIAR A MAYÚSCULA O MINÚSCULAS
-// MAYÚSCULAS
-// texto.ToUpper()
-// MINÚSCULA
-// texto.ToLower()
+    // MAYÚSCULAS
+        // texto.ToUpper()
+    // MINÚSCULA
+        // texto.ToLower()
 
 
 
 // CICLOS: WHILE Y FOR
-// WHILE
-// Pregunta la condición y luego deja entrar al ciclo
-// Mientras se cumpla la condición, vamos a dar la vuelta del ciclo de forma infinita
-// Se usa cuando NO sabemos cuántas vueltas al ciclo se va a dar
+    // WHILE
+        //Pregunta la condición y luego deja entrar al ciclo
+        //Mientras se cumpla la condición, vamos a dar la vuelta del ciclo de forma infinita
+        //Se usa cuando NO sabemos cuántas vueltas al ciclo se va a dar
 
-// DO WHILE
-// Entra al ciclo directo y luego pregunta la condición
+    // DO WHILE
+        //Entra al ciclo directo y luego pregunta la condición
 
-// FOR
-// Para, mientras que ...
-// Se usa cuando SÍ sabemos cuántas vueltas al ciclo se va a dar
-//for(declaración; condicion; aumento)
+    // FOR
+        //Para, mientras que ...
+        //Se usa cuando SÍ sabemos cuántas vueltas al ciclo se va a dar
+            //for(declaración; condicion; aumento)
+
+// MATRICES (o ARRAYS en otros lenguajes)
+    //Se utilizan para almacenar múltiples valores en una sola variable, en lugar de declarar variables separadas para cada valor.
+    //Es como si se pudiera guardar cosas dentro de una variable del mismo tipo
+    //Array proviene de la formación de vagones de un tren
+    //Para declarar una matriz, se define el tipo de variable con corchetes:
+        // string[] cars;
+    //Para insertarle valores sería de la siguiente manera para texto o para números:
+        string[] cars = {"Volvo","BMW","Ford","VW"};
+        int[] misNumeros = { 10, 20, 30, 40 };
+    //Para acceder a un valor de la matriz, se llama a la variable y luego entre corchetes va el índice, es decir, el valor dentro de la variable que se quiere
+        Console.WriteLine(cars[0]);
+
+string[] Frutas = new string[1];
+
+Frutas[0] = "Pera";
+
+// DIFERENCIA ENTRE CONTADOR Y ACUMULADOR
+    //Las dos cosas son variables comunes, solo que guardan cosas diferentes
+        // CONTADOR
+            //Guarda en la variable las veces que pasa. Es decir, incrementa en un valor constante (de a 1 o de a 2 o lo que se requiera)
+        // ACUMULADOR
+            //Guarda en la variable las sumatorias, multiplicaciones, etc de los valores que no son fijos. Es decir, incrementa en cantidades diferentes.
