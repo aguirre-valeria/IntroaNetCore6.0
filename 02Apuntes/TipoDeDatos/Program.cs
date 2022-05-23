@@ -138,21 +138,31 @@ Console.Clear();
         //Se usa cuando SÍ sabemos cuántas vueltas al ciclo se va a dar
             //for(declaración; condicion; aumento)
 
+
 // MATRICES (o ARRAYS en otros lenguajes)
-    //Se utilizan para almacenar múltiples valores en una sola variable, en lugar de declarar variables separadas para cada valor.
-    //Es como si se pudiera guardar cosas dentro de una variable del mismo tipo
+    //Se utilizan para almacenar múltiples valores del mismo tipo en una sola variable, en lugar de declarar variables separadas para cada valor.
+    //Es como si se pudiera guardar cosas dentro de una variable del mismo tipo, es decir que normalmente tienen alguna relación entre sí
     //Array proviene de la formación de vagones de un tren
-    //Para declarar una matriz, se define el tipo de variable con corchetes:
+//SINTAXIS:
+    //IMPORTANTE: Los corchetes van sí o sí después del tipo de dato a ingresar en la matriz
+    //DECLARACIÓN: Para declarar una matriz, se define el tipo de variable con corchetes:
         // string[] cars;
-    //Para insertarle valores sería de la siguiente manera para texto o para números:
+    //INICIACIÓN: Para iniciarla se indica la cantidad de valores que tendrá
+        // cars = new string[4];
+    //La declaración e iniciación puede ser en la misma línea:
+        // string[] cars = new string[4];
+    //INSERTAR VALORES:
+    //1. Para insertarle valores sería de la siguiente manera para texto o para números:
         string[] cars = {"Volvo","BMW","Ford","VW"};
         int[] misNumeros = { 10, 20, 30, 40 };
+    //2. Si se quiere agregar por cada índice sería de la siguiente manera:
+        // cars [0] = "Volvo";
+        // cars [1] = "BMW";
+        // cars [2] = "Ford";
+        // cars [3] = "VW";
     //Para acceder a un valor de la matriz, se llama a la variable y luego entre corchetes va el índice, es decir, el valor dentro de la variable que se quiere
         Console.WriteLine(cars[0]);
 
-string[] Frutas = new string[1];
-
-Frutas[0] = "Pera";
 
 // DIFERENCIA ENTRE CONTADOR Y ACUMULADOR
     //Las dos cosas son variables comunes, solo que guardan cosas diferentes
