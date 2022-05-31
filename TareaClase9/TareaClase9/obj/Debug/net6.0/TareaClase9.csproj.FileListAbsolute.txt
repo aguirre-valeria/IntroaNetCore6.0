@@ -1,0 +1,15 @@
+H:\Mi unidad\MIS CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\IntroaNetCore6.0\TareaClase9\TareaClase9\bin\Debug\net6.0\TareaClase9.exe
+H:\Mi unidad\MIS CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\IntroaNetCore6.0\TareaClase9\TareaClase9\bin\Debug\net6.0\TareaClase9.deps.json
+H:\Mi unidad\MIS CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\IntroaNetCore6.0\TareaClase9\TareaClase9\bin\Debug\net6.0\TareaClase9.runtimeconfig.json
+H:\Mi unidad\MIS CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\IntroaNetCore6.0\TareaClase9\TareaClase9\bin\Debug\net6.0\TareaClase9.dll
+H:\Mi unidad\MIS CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\IntroaNetCore6.0\TareaClase9\TareaClase9\bin\Debug\net6.0\TareaClase9.pdb
+H:\Mi unidad\MIS CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\IntroaNetCore6.0\TareaClase9\TareaClase9\obj\Debug\net6.0\TareaClase9.csproj.AssemblyReference.cache
+H:\Mi unidad\MIS CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\IntroaNetCore6.0\TareaClase9\TareaClase9\obj\Debug\net6.0\TareaClase9.GeneratedMSBuildEditorConfig.editorconfig
+H:\Mi unidad\MIS CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\IntroaNetCore6.0\TareaClase9\TareaClase9\obj\Debug\net6.0\TareaClase9.AssemblyInfoInputs.cache
+H:\Mi unidad\MIS CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\IntroaNetCore6.0\TareaClase9\TareaClase9\obj\Debug\net6.0\TareaClase9.AssemblyInfo.cs
+H:\Mi unidad\MIS CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\IntroaNetCore6.0\TareaClase9\TareaClase9\obj\Debug\net6.0\TareaClase9.csproj.CoreCompileInputs.cache
+H:\Mi unidad\MIS CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\IntroaNetCore6.0\TareaClase9\TareaClase9\obj\Debug\net6.0\TareaClase9.dll
+H:\Mi unidad\MIS CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\IntroaNetCore6.0\TareaClase9\TareaClase9\obj\Debug\net6.0\refint\TareaClase9.dll
+H:\Mi unidad\MIS CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\IntroaNetCore6.0\TareaClase9\TareaClase9\obj\Debug\net6.0\TareaClase9.pdb
+H:\Mi unidad\MIS CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\IntroaNetCore6.0\TareaClase9\TareaClase9\obj\Debug\net6.0\TareaClase9.genruntimeconfig.cache
+H:\Mi unidad\MIS CURSOS\10 Polo Tecnológico Mina Clavero\Introducción a Net Core 6.0 2022\IntroaNetCore6.0\TareaClase9\TareaClase9\obj\Debug\net6.0\ref\TareaClase9.dll
